@@ -94,4 +94,3 @@ Weather-Dashboard/
 ## Acknowledgements  
 - **OpenWeather**: For providing reliable weather data.  
 - **AWS S3**: For seamless and scalable cloud storage services.  
-```
