@@ -1,7 +1,7 @@
 # Weather Dashboard  
 
 ## Overview  
-The **Weather Dashboard** is a scalable weather data collection and storage system developed as part of the **30-Day DevOps Challenge**. This project integrates the **OpenWeather API** with **AWS S3**, showcasing foundational DevOps principles such as automation, cloud resource management, and real-time data integration.  
+The **Weather Dashboard** is a scalable weather data collection and storage system. This project integrates the **OpenWeather API** with **AWS S3**, showcasing foundational DevOps principles such as automation, cloud resource management, and real-time data integration.  
 
 ---
 
